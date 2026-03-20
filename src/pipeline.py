@@ -106,7 +106,7 @@ def run_pipeline(
 ) -> dict:
     setup_logging()
 
-    if os.getenv(ENV_ROUTE_FROM_RAW, "").strip() == "1":
+    if os.getenv(ENV_ROUTE_FROM_RAW, "1").strip() == "1":
         route_raw_data_to_structured(raw_root=DEFAULT_RAW_DATA_ROOT, structured_root=data_root)
 
     events, texts = _ensure_events_loaded(

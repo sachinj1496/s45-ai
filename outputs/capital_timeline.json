@@ -44,7 +44,6 @@
       },
       "verified_by": [
         "MOA",
-        "BOARD_RESOLUTION",
         "EGM_RESOLUTION"
       ],
       "confidence": {
@@ -236,7 +235,7 @@
     },
     {
       "date": {
-        "value": "2024-09-15",
+        "value": "2024-09-30",
         "source": "data\\sh7\\sh7_group_4.txt",
         "supporting_docs": [
           "data\\sh7\\sh7_group_4.txt"
@@ -247,6 +246,7 @@
         "source": "data\\sh7\\sh7_group_4.txt",
         "supporting_docs": [
           "data\\sh7\\sh7_group_4.txt",
+          "data\\attachments\\board_resolution_group_4.txt",
           "data\\attachments\\egm_resolution_group_4.txt"
         ]
       },
@@ -269,6 +269,7 @@
         "source": "data\\sh7\\sh7_group_4.txt",
         "supporting_docs": [
           "data\\sh7\\sh7_group_4.txt",
+          "data\\attachments\\board_resolution_group_4.txt",
           "data\\attachments\\egm_resolution_group_4.txt"
         ]
       },
@@ -284,21 +285,21 @@
       },
       "egm_agm_events": [
         {
-          "value": "EGM resolution on 2024-09-15",
+          "value": "EGM resolution on 2024-09-30",
           "source": "data\\attachments\\egm_resolution_group_4.txt",
           "supporting_docs": [
             "data\\attachments\\egm_resolution_group_4.txt"
           ]
         },
         {
-          "value": "EGM notice / explanatory statement on 2024-09-15",
+          "value": "EGM notice / explanatory statement on 2024-09-30",
           "source": "data\\attachments\\egm_notice_explanatory_group_4.txt",
           "supporting_docs": [
             "data\\attachments\\egm_notice_explanatory_group_4.txt"
           ]
         },
         {
-          "value": "EGM on 2024-09-15",
+          "value": "EGM on 2024-09-30",
           "source": "data\\sh7\\sh7_group_4.txt",
           "supporting_docs": [
             "data\\sh7\\sh7_group_4.txt"
@@ -310,7 +311,7 @@
   "shareholder_meeting_table": [
     {
       "date_of_shareholders_meeting": "March 22, 2018",
-      "particulars_from": "\u20b9 1,50,000 divided into 30,000 Equity Shares of \u20b9 10 each",
+      "particulars_from": "\u20b9 1,50,000 divided into 15,000 Equity Shares of \u20b9 10 each",
       "particulars_to": "\u20b9 3,00,000 divided into 30,000 Equity Shares of \u20b9 10 each",
       "agm_egm": "-",
       "change_summary": "Authorised capital increased from \u20b9 1,50,000 to \u20b9 3,00,000"
@@ -330,11 +331,11 @@
       "change_summary": "Authorised capital decreased from \u20b9 6,50,000 to \u20b9 4,00,000"
     },
     {
-      "date_of_shareholders_meeting": "September 15, 2024",
+      "date_of_shareholders_meeting": "September 30, 2024",
       "particulars_from": "\u20b9 4,00,000 divided into 20,000 Equity Shares of \u20b9 10 each and 20,000 Redeemable Preference Shares of \u20b9 10 each",
       "particulars_to": "\u20b9 2,00,000 divided into 10,000 Equity Shares of \u20b9 10 each and 10,000 Redeemable Preference Shares of \u20b9 10 each",
-      "agm_egm": "EGM",
-      "change_summary": "Authorised capital reduced from \u20b9 4,00,000 to \u20b9 2,00,000"
+      "agm_egm": "-",
+      "change_summary": "Authorised capital decreased from \u20b9 4,00,000 to \u20b9 2,00,000"
     }
   ],
   "generation_notes": [
