@@ -1,0 +1,25 @@
+[project]
+name = "s45-ai"
+version = "0.1.0"
+description = "AI-assisted reconstruction of authorised share capital timeline from compliance documents"
+requires-python = ">=3.10"
+dependencies = [
+  "pydantic>=2.6.0",
+  "pytest>=8.0.0",
+  "openai>=1.0.0",
+  "python-dotenv>=1.0.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+# Pylance / Pyright: improves import resolution and Go to Definition across the repo.
+[tool.pyright]
+include = ["src", "tests", "main.py"]
+pythonVersion = "3.10"
+typeCheckingMode = "basic"

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: s45-ai
+Version: 0.1.0
+Summary: AI-assisted reconstruction of authorised share capital timeline from compliance documents
+Requires-Python: >=3.10
+Requires-Dist: pydantic>=2.6.0
+Requires-Dist: pytest>=8.0.0
+Requires-Dist: openai>=1.0.0
+Requires-Dist: python-dotenv>=1.0.0

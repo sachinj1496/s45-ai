@@ -1,0 +1,344 @@
+{
+  "events": [
+    {
+      "date": {
+        "value": "2018-03-22",
+        "source": "data\\sh7\\sh7_group_1.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_1.txt"
+        ]
+      },
+      "authorised_capital": {
+        "value": 300000,
+        "source": "data\\sh7\\sh7_group_1.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_1.txt",
+          "data\\attachments\\board_resolution_group_1.txt",
+          "data\\attachments\\egm_resolution_group_1.txt",
+          "data\\attachments\\moa_group_1.txt"
+        ]
+      },
+      "change": {
+        "value": "increase",
+        "source": "data\\sh7\\sh7_group_1.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_1.txt"
+        ]
+      },
+      "delta": {
+        "value": 150000,
+        "source": "data\\sh7\\sh7_group_1.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_1.txt"
+        ]
+      },
+      "source_document": {
+        "value": "data\\sh7\\sh7_group_1.txt",
+        "source": "data\\sh7\\sh7_group_1.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_1.txt",
+          "data\\attachments\\board_resolution_group_1.txt",
+          "data\\attachments\\egm_resolution_group_1.txt",
+          "data\\attachments\\moa_group_1.txt"
+        ]
+      },
+      "verified_by": [
+        "MOA",
+        "BOARD_RESOLUTION",
+        "EGM_RESOLUTION"
+      ],
+      "confidence": {
+        "value": 1.0,
+        "source": "data\\sh7\\sh7_group_1.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_1.txt"
+        ]
+      },
+      "egm_agm_events": [
+        {
+          "value": "EGM resolution on 2018-03-22",
+          "source": "data\\attachments\\egm_resolution_group_1.txt",
+          "supporting_docs": [
+            "data\\attachments\\egm_resolution_group_1.txt"
+          ]
+        },
+        {
+          "value": "EGM notice / explanatory statement on 2018-03-22",
+          "source": "data\\attachments\\egm_notice_explanatory_group_1.txt",
+          "supporting_docs": [
+            "data\\attachments\\egm_notice_explanatory_group_1.txt"
+          ]
+        },
+        {
+          "value": "EGM on 2018-03-22",
+          "source": "data\\sh7\\sh7_group_1.txt",
+          "supporting_docs": [
+            "data\\sh7\\sh7_group_1.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "date": {
+        "value": "2021-06-30",
+        "source": "data\\sh7\\sh7_group_2.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_2.txt"
+        ]
+      },
+      "authorised_capital": {
+        "value": 600000,
+        "source": "data\\sh7\\sh7_group_2.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_2.txt",
+          "data\\attachments\\board_resolution_group_2.txt",
+          "data\\attachments\\egm_resolution_group_2.txt",
+          "data\\attachments\\moa_group_2.txt"
+        ]
+      },
+      "change": {
+        "value": "increase",
+        "source": "data\\sh7\\sh7_group_2.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_2.txt"
+        ]
+      },
+      "delta": {
+        "value": 300000,
+        "source": "data\\sh7\\sh7_group_2.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_2.txt"
+        ]
+      },
+      "source_document": {
+        "value": "data\\sh7\\sh7_group_2.txt",
+        "source": "data\\sh7\\sh7_group_2.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_2.txt",
+          "data\\attachments\\board_resolution_group_2.txt",
+          "data\\attachments\\egm_resolution_group_2.txt",
+          "data\\attachments\\moa_group_2.txt"
+        ]
+      },
+      "verified_by": [
+        "MOA",
+        "BOARD_RESOLUTION",
+        "EGM_RESOLUTION"
+      ],
+      "confidence": {
+        "value": 1.0,
+        "source": "data\\sh7\\sh7_group_2.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_2.txt"
+        ]
+      },
+      "egm_agm_events": [
+        {
+          "value": "EGM resolution on 2021-06-30",
+          "source": "data\\attachments\\egm_resolution_group_2.txt",
+          "supporting_docs": [
+            "data\\attachments\\egm_resolution_group_2.txt"
+          ]
+        },
+        {
+          "value": "EGM notice / explanatory statement on 2021-06-30",
+          "source": "data\\attachments\\egm_notice_explanatory_group_2.txt",
+          "supporting_docs": [
+            "data\\attachments\\egm_notice_explanatory_group_2.txt"
+          ]
+        },
+        {
+          "value": "EGM on 2021-06-30",
+          "source": "data\\sh7\\sh7_group_2.txt",
+          "supporting_docs": [
+            "data\\sh7\\sh7_group_2.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "date": {
+        "value": "2023-04-28",
+        "source": "data\\sh7\\sh7_group_3.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_3.txt"
+        ]
+      },
+      "authorised_capital": {
+        "value": 400000,
+        "source": "data\\sh7\\sh7_group_3.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_3.txt",
+          "data\\attachments\\board_resolution_group_3.txt",
+          "data\\attachments\\egm_resolution_group_3.txt",
+          "data\\attachments\\moa_group_3.txt"
+        ]
+      },
+      "change": {
+        "value": "decrease",
+        "source": "data\\sh7\\sh7_group_3.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_3.txt"
+        ]
+      },
+      "delta": {
+        "value": -250000,
+        "source": "data\\sh7\\sh7_group_3.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_3.txt"
+        ]
+      },
+      "source_document": {
+        "value": "data\\sh7\\sh7_group_3.txt",
+        "source": "data\\sh7\\sh7_group_3.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_3.txt",
+          "data\\attachments\\board_resolution_group_3.txt",
+          "data\\attachments\\egm_resolution_group_3.txt",
+          "data\\attachments\\moa_group_3.txt"
+        ]
+      },
+      "verified_by": [
+        "MOA",
+        "BOARD_RESOLUTION",
+        "EGM_RESOLUTION"
+      ],
+      "confidence": {
+        "value": 1.0,
+        "source": "data\\sh7\\sh7_group_3.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_3.txt"
+        ]
+      },
+      "egm_agm_events": [
+        {
+          "value": "EGM resolution on 2023-04-28",
+          "source": "data\\attachments\\egm_resolution_group_3.txt",
+          "supporting_docs": [
+            "data\\attachments\\egm_resolution_group_3.txt"
+          ]
+        },
+        {
+          "value": "EGM notice / explanatory statement on 2023-04-28",
+          "source": "data\\attachments\\egm_notice_explanatory_group_3.txt",
+          "supporting_docs": [
+            "data\\attachments\\egm_notice_explanatory_group_3.txt"
+          ]
+        },
+        {
+          "value": "EGM on 2023-04-28",
+          "source": "data\\sh7\\sh7_group_3.txt",
+          "supporting_docs": [
+            "data\\sh7\\sh7_group_3.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "date": {
+        "value": "2024-09-15",
+        "source": "data\\sh7\\sh7_group_4.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_4.txt"
+        ]
+      },
+      "authorised_capital": {
+        "value": 200000,
+        "source": "data\\sh7\\sh7_group_4.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_4.txt",
+          "data\\attachments\\egm_resolution_group_4.txt"
+        ]
+      },
+      "change": {
+        "value": "decrease",
+        "source": "data\\sh7\\sh7_group_4.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_4.txt"
+        ]
+      },
+      "delta": {
+        "value": -200000,
+        "source": "data\\sh7\\sh7_group_4.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_4.txt"
+        ]
+      },
+      "source_document": {
+        "value": "data\\sh7\\sh7_group_4.txt",
+        "source": "data\\sh7\\sh7_group_4.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_4.txt",
+          "data\\attachments\\egm_resolution_group_4.txt"
+        ]
+      },
+      "verified_by": [
+        "EGM_RESOLUTION"
+      ],
+      "confidence": {
+        "value": 1.0,
+        "source": "data\\sh7\\sh7_group_4.txt",
+        "supporting_docs": [
+          "data\\sh7\\sh7_group_4.txt"
+        ]
+      },
+      "egm_agm_events": [
+        {
+          "value": "EGM resolution on 2024-09-15",
+          "source": "data\\attachments\\egm_resolution_group_4.txt",
+          "supporting_docs": [
+            "data\\attachments\\egm_resolution_group_4.txt"
+          ]
+        },
+        {
+          "value": "EGM notice / explanatory statement on 2024-09-15",
+          "source": "data\\attachments\\egm_notice_explanatory_group_4.txt",
+          "supporting_docs": [
+            "data\\attachments\\egm_notice_explanatory_group_4.txt"
+          ]
+        },
+        {
+          "value": "EGM on 2024-09-15",
+          "source": "data\\sh7\\sh7_group_4.txt",
+          "supporting_docs": [
+            "data\\sh7\\sh7_group_4.txt"
+          ]
+        }
+      ]
+    }
+  ],
+  "shareholder_meeting_table": [
+    {
+      "date_of_shareholders_meeting": "March 22, 2018",
+      "particulars_from": "\u20b9 1,50,000 divided into 30,000 Equity Shares of \u20b9 10 each",
+      "particulars_to": "\u20b9 3,00,000 divided into 30,000 Equity Shares of \u20b9 10 each",
+      "agm_egm": "-",
+      "change_summary": "Authorised capital increased from \u20b9 1,50,000 to \u20b9 3,00,000"
+    },
+    {
+      "date_of_shareholders_meeting": "June 30, 2021",
+      "particulars_from": "\u20b9 3,00,000 divided into 30,000 Equity Shares of \u20b9 10 each",
+      "particulars_to": "\u20b9 6,00,000",
+      "agm_egm": "-",
+      "change_summary": "Authorised capital increased from \u20b9 3,00,000 to \u20b9 6,00,000"
+    },
+    {
+      "date_of_shareholders_meeting": "April 28, 2023",
+      "particulars_from": "\u20b9 6,00,000",
+      "particulars_to": "\u20b9 4,00,000 divided into 20,000 Equity Shares of \u20b9 10 each and 20,000 Redeemable Preference Shares of \u20b9 10 each",
+      "agm_egm": "-",
+      "change_summary": "Authorised capital decreased from \u20b9 6,50,000 to \u20b9 4,00,000"
+    },
+    {
+      "date_of_shareholders_meeting": "September 15, 2024",
+      "particulars_from": "\u20b9 4,00,000 divided into 20,000 Equity Shares of \u20b9 10 each and 20,000 Redeemable Preference Shares of \u20b9 10 each",
+      "particulars_to": "\u20b9 2,00,000 divided into 10,000 Equity Shares of \u20b9 10 each and 10,000 Redeemable Preference Shares of \u20b9 10 each",
+      "agm_egm": "EGM",
+      "change_summary": "Authorised capital reduced from \u20b9 4,00,000 to \u20b9 2,00,000"
+    }
+  ],
+  "generation_notes": [
+    "Built from SH-7 extracted authorised share capital states; cross-validated against MOA and resolutions when available.",
+    "shareholder_meeting_table: LLM `shareholder_meeting` on each extraction when present, else formatted from numbers; chained From uses prior row To."
+  ]
+}

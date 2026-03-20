@@ -1,0 +1,37 @@
+# FORM NO. SH-7
+Notice to Registrar of any alteration of share capital
+Pursuant to section 64(1) of the Companies Act, 2013 and pursuant to rule 63 of the Companies Rules, 2014
+
+Company: NEXUS BRIGHTLEARN SOLUTIONS PRIVATE LIMITED
+Registered Office: KRISHNA TOWER PLOT NO-45 SECTOR-12 DWARKA NEW DELHI New Delhi Delhi 110075
+
+Meeting of members held on: 28/04/2023 (DD/MM/YYYY)
+Filing/Reference date: 2023-04-28
+
+Purpose: Reduction / alteration of authorised share capital
+
+(a)(i) The authorised share capital of the company has been decreased from:
+<table>
+  <thead>
+    <tr>
+      <th>Existing</th>
+      <th>(in Rs.)</th>
+      <th>650,000</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>Revised</td>
+    <td>(in Rs.)</td>
+    <td>400,000</td>
+  </tr>
+</table>
+
+Revised capital structure after the approved alteration:
+(a) Authorised capital of the company (in Rs.) 400,000.00
+
+Break up of authorised capital (for traceability):
+1) Equity Shares: 20,000 Equity Shares of Rs. 10/- each (total Rs. 2,00,000/-)
+2) Redeemable Preference Shares: 20,000 Redeemable Preference Shares of Rs. 10/- each (total Rs. 2,00,000/-)
+
+Declaration:
+The authorised share capital alteration is certified as per the resolutions and altered memorandum placed with the company records.

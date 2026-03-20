@@ -1,0 +1,5 @@
+Date,Authorised Capital (Rs.),Change,Delta (Rs.),Verified By,Confidence,Source Document,Supporting EGM/AGM Events
+2018-03-22,300000,increase,150000,MOA; BOARD_RESOLUTION; EGM_RESOLUTION,1.0,data\sh7\sh7_group_1.txt,EGM resolution on 2018-03-22; EGM notice / explanatory statement on 2018-03-22; EGM on 2018-03-22
+2021-06-30,600000,increase,300000,MOA; BOARD_RESOLUTION; EGM_RESOLUTION,1.0,data\sh7\sh7_group_2.txt,EGM resolution on 2021-06-30; EGM notice / explanatory statement on 2021-06-30; EGM on 2021-06-30
+2023-04-28,400000,decrease,-250000,MOA; BOARD_RESOLUTION; EGM_RESOLUTION,1.0,data\sh7\sh7_group_3.txt,EGM resolution on 2023-04-28; EGM notice / explanatory statement on 2023-04-28; EGM on 2023-04-28
+2024-09-15,200000,decrease,-200000,EGM_RESOLUTION,1.0,data\sh7\sh7_group_4.txt,EGM resolution on 2024-09-15; EGM notice / explanatory statement on 2024-09-15; EGM on 2024-09-15
