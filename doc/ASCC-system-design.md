@@ -6,7 +6,7 @@ what is PAS-3?
 what is SH-7?
 After knowing them, what they are I opened the google doc shared with me. I searched what each doc meant and what its for. At the start reading the doc didn't made any sense. So I fed the doc to ChatGPT to make sense out of it. I read some starting lines of the doc and some doc to the half length, and they made some sense.
 
-I read the problem statement again and again, to understand what needs to be implemented. Also took the help of ChatGPT in designing and understanding the problem. And reading 2-3 times the problem statement and what chatGPT suggested, the problem had break down to simpler point, I have to read different types of document and compile them to form some kind of a table. That's it.
+I read the problem statement again and again, to understand what needs to be implemented. Also took the help of ChatGPT in designing and understanding the problem. And reading 2-3 times the problem statement and what chatGPT suggested, the problem had break down to simpler point, I have to read different types of document and compile (classify and extract ) them to form some kind of a table. That's it.
 
 # System Design: Authorised Share Capital Change Reconstruction
 
